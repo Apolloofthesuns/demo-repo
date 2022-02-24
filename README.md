@@ -18,6 +18,8 @@ repository -> project, or the folder/place where your project is kept;
 
 github -> a website to host your respositories online;
 
+pr -> pull request
+
 **git commands:**
 
 clone -> bring a repository that is hosted somewhere like github into a folder on your local machine;
