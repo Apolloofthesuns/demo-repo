@@ -70,4 +70,22 @@ git merge -> merge branches
 
 git diff -> shows the changes between branches
 
+git pull -> pulls the files to your local directory from github
+
+git pull origin main -> if the upstream wasn't set then this should be used instead to pull
+
+git branch -d _nameOfTheBranch_-> to delete a branch
+
+git commit -am "_message_" -> only for modified files, we can use this instead of using "git add"
+
+git reset -> undo the changes. eg. add/commit. reset can be used by itself or we can also add the name of the file we want to be reset
+
+git reset HEAD~1 -> "HEAD" means to git is a pointer to the last commit, and adding 1 tells git to reset 1 commit further, so it will go back to the commit we made before the last commit
+
+git reset _hashOfTheCommit_ -> with "git log" you can see all commits and every commit will have a unique hash code
+
+git reset --hard _hashOfTheCommit_ -> not only undoes the commits but also completely removes the changes made to the files
+
+git log -> check the log of commits
+
 q -> to get out back to initial directory
