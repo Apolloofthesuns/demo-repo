@@ -57,3 +57,9 @@ git remote add origin _ssh-key_ -> [remote means somewhere else and not on this 
 git remote -v -> to check any remote repositories that was connected to this local repository
 
 git push -u origin main -> to setup an upstream so in future we can push without typing "origin master"
+
+git branch -> shows how many branches you have in your directory
+
+git checkout -> used to switch between branches
+
+git checkout -b _name_-> to create a new branch. e.g. git checkout -b features. it's better to make the name as descriptive as possible. some people like to use _feature_/_ticketNumber_||_description_, or give it an issue number like: _feature-11_, or make it even longer _feature-11-something_
