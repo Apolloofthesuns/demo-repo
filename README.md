@@ -1,6 +1,6 @@
 # Demo
 
-terminologies: 
+**terminologies: **
 
 1 hashtag -> main header;
 
@@ -20,7 +20,7 @@ github -> a website to host your respositories online;
 
 
 
-git commands:
+**git commands:**
 
 clone -> bring a repository that is hosted somewhere like github into a folder on your local machine;
 
