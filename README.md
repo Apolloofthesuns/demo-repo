@@ -1,6 +1,6 @@
 # Demo
 
-**terminologies: **
+**terminologies:**
 
 1 hashtag -> main header;
 
