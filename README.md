@@ -57,3 +57,5 @@ git remote add origin _ssh-key_ -> [remote means somewhere else and not on this 
 git remote -v -> to check any remote repositories that was connected to this local repository
 
 git push -u origin main -> to setup an upstream so in future we can push without typing "origin master"
+
+//git branch trail
