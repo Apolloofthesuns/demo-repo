@@ -63,3 +63,9 @@ git branch -> shows how many branches you have in your directory
 git checkout -> used to switch between branches
 
 git checkout -b _name_-> to create a new branch. e.g. git checkout -b features. it's better to make the name as descriptive as possible. some people like to use _feature_/_ticketNumber_||_description_, or give it an issue number like: _feature-11_, or make it even longer _feature-11-something_
+
+git merge -> merge branches
+
+git diff -> shows the changes between branches
+
+q -> to get out back to initial directory
